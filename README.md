@@ -26,8 +26,8 @@
 
 ## It's Me ✌️
 <div align=left>  
-  <img style="width: 60%" src="https://github-readme-stats.vercel.app/api?username=leegeunwoo&show_icons=true&theme=dracula">
-  <img style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegeunwoo&layout=compact&theme=dark">
+  <img style="width: 60%" src="https://github-readme-stats.vercel.app/api?username=riulwoo&show_icons=true&theme=dracula">
+  <img style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riulwoo&layout=compact&theme=dark">
 </div>
 <br>
 
