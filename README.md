@@ -29,19 +29,6 @@
   <img style="width: 60%" src="https://github-readme-stats.vercel.app/api?username=riulwoo&show_icons=true&theme=dracula">
   <img style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riulwoo&layout=compact&theme=dark">
 </div>
-<br>
-
-## Project 📚
-- <a href="https://github.com/riulwoo/workmate">WorkMate - 웹 멀티 미니 게임</a>
-
-## Education ✏️
-- 2023.03.01 ~ 현재 한국방송통신대학교 컴퓨터과학과(재학)
-- 2018.03 ~ 2023.02 유한대학교 컴퓨터소프트웨어공학과(졸업)
-
-## Certification 📜
-- 정보처리산업기사
-- 정보처리기능사
-
 <div align = "right">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleegeunwoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true">
 </div>
