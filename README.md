@@ -4,13 +4,15 @@
 ## 💻 My Tech Stack 💻
 <div align=left>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/typescript-007396?style=for-the-badge&logo=typescript&logoColor=white">
+  <!-- img src="https://img.shields.io/badge/typescript-007396?style=for-the-badge&logo=typescript&logoColor=white" -->
   <img src="https://img.shields.io/badge/nodejs-6DB33F?style=for-the-badge&logo=node.js&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/-ORACLE-F80000?style=for-the-badge&logo=oracle">
   <img src="https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-CC2927?style=for-the-badge&logo=MongoDB">
+  <img src="https://img.shields.io/badge/-Sequelize-CC2927?style=for-the-badge&logo=Sequelize">
+  <!--img src="https://img.shields.io/badge/-MongoDB-CC2927?style=for-the-badge&logo=MongoDB" -->
+
   <br>
 
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff">
