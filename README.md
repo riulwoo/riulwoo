@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/badge/-ORACLE-F80000?style=for-the-badge&logo=oracle">
   <img src="https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/-Sequelize-CC2927?style=for-the-badge&logo=Sequelize">
-  <!--img src="https://img.shields.io/badge/-MongoDB-CC2927?style=for-the-badge&logo=MongoDB" -->
+  <img src="https://img.shields.io/badge/-MongoDB-CC2927?style=for-the-badge&logo=MongoDB">
+  <img src="https://img.shields.io/badge/-Mongoose-CC2927?style=for-the-badge&logo=Mongoose">
 
   <br>
 
